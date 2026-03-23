@@ -20,7 +20,6 @@
     "ECLASS",
     "EKEY",
     "ERRULE",
-    "esbenp",
     "ETYPE",
     "FELEM",
     "Fillfactor",
@@ -59,5 +58,7 @@
     "workqueue",
     "xact"
   ],
-  "ignorePaths": [".git/**"]
+  "ignorePaths": [
+    ".git/**"
+  ]
 }
